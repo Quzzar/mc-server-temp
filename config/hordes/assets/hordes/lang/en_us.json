@@ -1,0 +1,28 @@
+{
+	
+	"message.hordes.EventStart":"You hear the howls of a nearby horde",
+	"message.hordes.EventEnd":"The air is quiet, the horde has stopped",
+	"message.hordes.TrySleep":"You may not rest now, a horde is approaching",
+	"message.hordes.title":"The Hordes",
+	
+	"hordes.subtitle.hordeHowls":"Zombie Howls",
+
+	"entity.hordes.ZombiePlayer.chat":"%1$s's Zombie",
+	"entity.hordes.DrownedPlayer.chat":"Drowned %1$s",
+	"entity.hordes.ZombiePlayer.name":"Player Zombie",
+	"entity.hordes.DrownedPlayer.name":"Drowned Player",
+	
+	"entity.hordes.ZombifiedPiglinBrute.name":"Zombified Piglin Brute",
+	"entity.hordes.ZombieWanderingTrader.name":"Zombie Wandering Trader",
+	"entity.hordes.ZombiePillager.name":"Zombie Pillager",
+	"entity.hordes.ZombieVindicator.name":"Zombie Vindicator",
+	"entity.hordes.ZombieEvoker.name":"Zombie Evoker",
+	"entity.hordes.ZombieIllusioner.name":"Zombie Illusioner",
+	"entity.hordes.ZombieWitch.name":"Zombie Witch",
+
+	"effect.hordes.infected":"Infection",
+	"death.attack.infection":"%1$s succumbed to infection.",
+	"death.attack.infection.zombified":"%1$s was zombified.",
+
+	"jei.category.hordes.InfectionCures":"Infection Cures"
+}
